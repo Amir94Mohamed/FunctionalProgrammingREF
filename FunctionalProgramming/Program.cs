@@ -8,7 +8,7 @@ namespace FunctionalProgramming
         static void Main(string[] args)
         {
             //Cube(8);
-            Cost(127);
+            Cost(17);
             //fiveTimesTable(65);
             //Console.WriteLine(vector(1, 2));
             //UpperAndLowerBound(50,10);
