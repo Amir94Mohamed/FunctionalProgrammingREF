@@ -1,0 +1,13 @@
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.csproj.AssemblyReference.cache
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.AssemblyInfoInputs.cache
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.AssemblyInfo.cs
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.csproj.CoreCompileInputs.cache
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.deps.json
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.runtimeconfig.json
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.runtimeconfig.dev.json
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.dll
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/bin/Debug/netcoreapp3.1/FunctionalProgramming.pdb
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.dll
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.pdb
+/Users/amirmohamed/Projects/FunctionalProgramming/FunctionalProgramming/obj/Debug/netcoreapp3.1/FunctionalProgramming.genruntimeconfig.cache
